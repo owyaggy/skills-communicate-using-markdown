@@ -8,5 +8,8 @@ for step in range(20):
   print(f"Step {step}")
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 Adds some headers
