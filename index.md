@@ -3,4 +3,10 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```python
+for step in range(20):
+  print(f"Step {step}")
+```
+
+
 Adds some headers
